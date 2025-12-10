@@ -11,6 +11,7 @@ public class FirstRestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FirstRestApplication.class, args);
 		// JENKINS BUILD TRIGGER
+		// Jenkins trigger test
 	}
 
 }
